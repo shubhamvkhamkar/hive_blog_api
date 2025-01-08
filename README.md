@@ -17,4 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is Screenshots of App in emulator 
 
+![Screenshot 2025-01-08 161040](https://github.com/user-attachments/assets/831b6199-61bc-4efb-ab18-801bdaddf029)
+
+![Screenshot 2025-01-08 161132](https://github.com/user-attachments/assets/10faa9b3-1ea4-4a29-85c0-c6e1b686a689)
+
 
