@@ -90,7 +90,7 @@ class PostCard extends StatelessWidget {
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               Text(
-                ' in ${post.community ?? 'Unknown community'} • ${relativeTime(post.created ?? ' ')}',
+                ' in ${post.community ?? 'Unknown community'} . ${relativeTime(post.created ?? ' ')}',
                 style: TextStyle(fontSize: 12, color: Colors.grey),
               ),
             ],
